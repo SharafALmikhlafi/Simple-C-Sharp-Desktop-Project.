@@ -1,0 +1,30 @@
+C:\Users\khaled\source\repos\assignment1\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\khaled\source\repos\assignment1\assignment1\bin\Debug\assignment1.exe
+C:\Users\khaled\source\repos\assignment1\assignment1\bin\Debug\assignment1.pdb
+C:\Users\khaled\source\repos\assignment1\assignment1\obj\Debug\assignment1.csproj.AssemblyReference.cache
+C:\Users\khaled\source\repos\assignment1\assignment1\obj\Debug\assignment1.Properties.Resources.resources
+C:\Users\khaled\source\repos\assignment1\assignment1\obj\Debug\assignment1.csproj.GenerateResource.cache
+C:\Users\khaled\source\repos\assignment1\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\khaled\source\repos\assignment1\assignment1\obj\Debug\assignment1.exe
+C:\Users\khaled\source\repos\assignment1\assignment1\obj\Debug\assignment1.pdb
+C:\Users\khaled\source\repos\assignment1\assignment1\obj\Debug\assignment1.Form1.resources
+C:\Users\a\Desktop\bin\Debug\assignment1.exe.config
+C:\Users\a\Desktop\bin\Debug\assignment1.exe
+C:\Users\a\Desktop\bin\Debug\assignment1.pdb
+C:\Users\a\Desktop\obj\Debug\assignment1.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\obj\Debug\assignment1.Form1.resources
+C:\Users\a\Desktop\obj\Debug\assignment1.Properties.Resources.resources
+C:\Users\a\Desktop\obj\Debug\assignment1.csproj.GenerateResource.cache
+C:\Users\a\Desktop\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\obj\Debug\assignment1.exe
+C:\Users\a\Desktop\obj\Debug\assignment1.pdb
+C:\Users\a\Desktop\مجلد جديد\bin\Debug\assignment1.exe.config
+C:\Users\a\Desktop\مجلد جديد\bin\Debug\assignment1.exe
+C:\Users\a\Desktop\مجلد جديد\bin\Debug\assignment1.pdb
+C:\Users\a\Desktop\مجلد جديد\obj\Debug\assignment1.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\مجلد جديد\obj\Debug\assignment1.Form1.resources
+C:\Users\a\Desktop\مجلد جديد\obj\Debug\assignment1.Properties.Resources.resources
+C:\Users\a\Desktop\مجلد جديد\obj\Debug\assignment1.csproj.GenerateResource.cache
+C:\Users\a\Desktop\مجلد جديد\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\مجلد جديد\obj\Debug\assignment1.exe
+C:\Users\a\Desktop\مجلد جديد\obj\Debug\assignment1.pdb
